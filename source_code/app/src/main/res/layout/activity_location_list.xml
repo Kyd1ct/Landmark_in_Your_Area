@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="8dp"
+    android:paddingRight="8dp">
+
+        <ListView
+            android:id="@+id/list_locations"
+            android:layout_width="wrap_content"
+            android:layout_height="749dp"
+            android:layout_weight="1"
+            android:drawSelectorOnTop="false" />
+
+    <Button
+        android:id="@+id/btnDelete"
+        android:layout_width="121dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/round_button"
+        android:text="Delete" />
+
+</LinearLayout>
+

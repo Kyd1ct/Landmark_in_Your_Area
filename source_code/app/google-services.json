@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "290219197705",
+    "project_id": "my-project-30360",
+    "storage_bucket": "my-project-30360.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290219197705:android:beac0f96a87d25bcc93fd8",
+        "android_client_info": {
+          "package_name": "com.example.geofence_cmp309_1901560"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290219197705-m5v1i0iu23hdmse5109a1njjshvsljga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuheJ0u5wJn-xZ68JKhATTPYhSAOOOj6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290219197705-m5v1i0iu23hdmse5109a1njjshvsljga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

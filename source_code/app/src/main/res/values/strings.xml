@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Landmark in your area!</string>
+    <string name="locations_button">Visited locations</string>
+    <string name="delete_all_button">Delete all</string>
+    <string name="z_axis">Z Axis: </string>
+    <string name="measType">m/s^2</string>
+    <string name="loc_update">Location Update</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="mapBtn">Open Map</string>
+    <string name="title_activity_maps2">MapsActivity2</string>
+    <string name="main_title">Landmark in your area!</string>
+    <string name="main_description">Landmark in your area! is an android application, which uses your background location and geofence capabilities to notify you if you are near a landmark. You can open the map by pressing on the Open Map button!</string>
+</resources>
